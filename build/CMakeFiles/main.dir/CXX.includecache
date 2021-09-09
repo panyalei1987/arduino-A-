@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libtest.hpp
+iostream
+-
+
+../include/test.hpp
+iostream
+-
+
+/home/pyl1987/github-source/arduino-A-2021/src/libtest.cpp
+libtest.hpp
+/home/pyl1987/github-source/arduino-A-2021/src/libtest.hpp
+
+/home/pyl1987/github-source/arduino-A-2021/src/test.cpp
+test.hpp
+/home/pyl1987/github-source/arduino-A-2021/src/test.hpp
+

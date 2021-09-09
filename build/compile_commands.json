@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/pyl1987/github-source/arduino-A-2021/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/pyl1987/github-source/arduino-A-2021/include  -g   -o CMakeFiles/main.dir/src/libtest.cpp.o -c /home/pyl1987/github-source/arduino-A-2021/src/libtest.cpp",
+  "file": "/home/pyl1987/github-source/arduino-A-2021/src/libtest.cpp"
+},
+{
+  "directory": "/home/pyl1987/github-source/arduino-A-2021/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/pyl1987/github-source/arduino-A-2021/include  -g   -o CMakeFiles/main.dir/src/main.cpp.o -c /home/pyl1987/github-source/arduino-A-2021/src/main.cpp",
+  "file": "/home/pyl1987/github-source/arduino-A-2021/src/main.cpp"
+},
+{
+  "directory": "/home/pyl1987/github-source/arduino-A-2021/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/pyl1987/github-source/arduino-A-2021/include  -g   -o CMakeFiles/main.dir/src/test.cpp.o -c /home/pyl1987/github-source/arduino-A-2021/src/test.cpp",
+  "file": "/home/pyl1987/github-source/arduino-A-2021/src/test.cpp"
+}
+]
